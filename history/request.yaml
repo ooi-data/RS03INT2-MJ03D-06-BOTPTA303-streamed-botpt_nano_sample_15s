@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_nano_sample_15s
-last_request: '2022-01-21T18:58:22.002985Z'
+last_request: '2022-02-07T18:14:49.512260Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_nano_sample_15s/main/history/response.json
-status: success
+status: pending
