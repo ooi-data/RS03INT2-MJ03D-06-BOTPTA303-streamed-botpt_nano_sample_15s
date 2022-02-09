@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_nano_sample_15s
 data_stream: RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_nano_sample_15s
-end_date: '2022-01-01T00:55:04.700Z'
-last_updated: '2022-01-22T03:20:16.282771'
+end_date: '2022-02-07T18:14:43.600Z'
+last_updated: '2022-02-09T19:26:37.875838Z'
 start_date: '2014-08-29T23:17:32.975Z'
-status: success
+status: pending
